@@ -21,10 +21,15 @@ Data
 
 Source: UN population data (assumed to be provided in CSV format: un-country-data.csv).
 Fields used:
+
 ISO3_code: Country code.
+
 Location: Country name.
+
 Time: Year of data observation.
+
 TPopulation1Jan: Population on January 1 (scaled to millions).
+
 TPopulation1July: Population on July 1 (scaled to millions).
 
 
