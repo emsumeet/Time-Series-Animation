@@ -36,7 +36,10 @@ TPopulation1July: Population on July 1 (scaled to millions).
 Technologies Used
 
 Python: Core programming language.
+
 Pandas: For data processing and manipulation.
+
 Matplotlib: For creating static and animated visualizations.
+
 Matplotlib Animation: For generating time-based animations.
 
