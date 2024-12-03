@@ -3,6 +3,7 @@
 This project processes and visualizes global population data, focusing on key insights such as the top 10 most populous countries over time. The final result includes a bar chart animation that dynamically displays population rankings from 1950 onward.
 
 Features
+
 1.Data Cleaning:
 Filters out countries with missing ISO3 codes.
 Scales population data to millions for readability.
@@ -17,6 +18,7 @@ Highlights dynamic trends in the population rankings of countries.
 
 
 Data
+
 Source: UN population data (assumed to be provided in CSV format: un-country-data.csv).
 Fields used:
 ISO3_code: Country code.
@@ -27,6 +29,7 @@ TPopulation1July: Population on July 1 (scaled to millions).
 
 
 Technologies Used
+
 Python: Core programming language.
 Pandas: For data processing and manipulation.
 Matplotlib: For creating static and animated visualizations.
